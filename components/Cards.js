@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
         alignItems: "center",
 
 
+
     },
     cover: {
         height: 250,
@@ -41,6 +42,8 @@ const styles = StyleSheet.create({
         marginTop: 10,
         marginLeft: 10,
         fontWeight: "500",
-        height: "100%"
+        height: "100%",
+        textAlign: "center"
+
     },
 })
